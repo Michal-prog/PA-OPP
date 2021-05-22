@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F2WLmBNuzBhio+SoKrwFcJD9fn4iliSan2nvTTOYf6RW0hK4tkQqmNykKXUoGvHNgk1csSNB76TfptEdJAVEOw==",
+  "success": true,
+  "projectFilePath": "D:\\codecool\\Programming School\\Programming School\\Programming School\\Programming School.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\M389J\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}
